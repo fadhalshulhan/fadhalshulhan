@@ -1,6 +1,6 @@
 # Hello, I'm Fadhal Shulhan! 👋
 
-Welcome to my GitHub profile! I’m a passionate developer with a focus on web, mobile, frontend, and backend development.
+Welcome to my GitHub profile! I’m a passionate Full Stack Developer specializing in web, mobile, front-end, and back-end development, with a focus on creating impactful digital solutions.
 
 ![GitHub followers](https://img.shields.io/github/followers/fadhalshulhan?label=Followers&style=social) ![GitHub stars](https://img.shields.io/github/stars/fadhalshulhan?label=Stars&style=social)
 
@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on web, 
 
 ## About Me
 
-- 🔭 Currently working on full-stack and mobile projects like [DocuMindAI](https://documind-ai.web.id/) and [Ngegas – Social Media App](https://kutt.it/NgegasApp).
-- 🌱 Learning more about **React**, **React Native**, **PostgreSQL**, **MongoDB**, **GraphQL**, and **Express.js** for full-stack and mobile development.
-- 📫 Reach me at:  
+- 🔭 Working on full-stack and mobile projects like [DocuMindAI](https://documind-ai.web.id/) and [Ngegas – Social Media App](https://kutt.it/NgegasApp).
+- 🌱 Deepening my expertise in **React**, **React Native**, **PostgreSQL**, **MongoDB**, **GraphQL**, and **Express.js** for full-stack and mobile development.
+- 📫 Let’s connect:  
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhalshulhan) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhalshulhan@gmail.com)
 
-## Technologies I Use
+## Tech Stack
 
 ### Front-End Development
 
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on web, 
   <img style="height: 30px; width: auto; margin: 0;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
 
-### GIT Version Control
+### CI/CD & GIT Version Control
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img style="height: 30px; width: auto; margin: 0;" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -80,8 +80,8 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on web, 
 
 ## Featured Projects
 
-- **[Ngegas – Social Media App](https://kutt.it/NgegasApp)**: A social media mobile app built with React Native and GraphQL, featuring real-time interactions and user authentication.  
-   Client: [https://kutt.it/NgegasApp](https://kutt.it/NgegasApp) (Requires Expo installation)  
+- **[Ngegas – Social Media App](https://kutt.it/NgegasApp)**: A social media app built with React Native and GraphQL, offering real-time interactions and secure user authentication.
+  Client: [https://kutt.it/NgegasApp](https://kutt.it/NgegasApp) (Requires Expo installation)  
    Server: [https://wopo.fadhalshulhan.com/graphql](https://wopo.fadhalshulhan.com/graphql)
 
   ```
@@ -133,6 +133,6 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on web, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadhalshulhan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhalshulhan&layout=compact&theme=radical)
 
-## Contributions
+## Let’s Collaborate!
 
-Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration. 🚀
+Thanks for stopping by! Explore my projects, and feel free to reach out for collaboration or just to say hi. 🚀
