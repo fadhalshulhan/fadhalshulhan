@@ -15,24 +15,42 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on web, 
 
 ## Technologies I Use
 
-### Frontend
+### Front-End Development
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white) ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white) ![Axios](https://img.shields.io/badge/axios-5A29E4?style-for-the-badge&logo=axios&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Back-End Development
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB NoSQL](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style-for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style-for-the-badge&logo=json-web-tokens&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![Google Cloud CE](https://img.shields.io/badge/Google_Cloud_CE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Mobile Development
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Expo](https://img.shields.io/badge/-EXPO%20-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![SuperTest](https://img.shields.io/badge/SuperTest-000000?style=for-the-badge&logo=supertest&logoColor=white) ![K6](https://img.shields.io/badge/k6-00C7B7?style=for-the-badge&logo=k6&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### GIT Version Control
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ## Featured Projects
 
 - **[Ngegas – Social Media App](https://kutt.it/NgegasApp)**: A social media mobile app built with React Native and GraphQL, featuring real-time interactions and user authentication.  
    Client: [https://kutt.it/NgegasApp](https://kutt.it/NgegasApp) (Requires Expo installation)  
-   Server: [https://wopo.fadhalshulhan.com/graphql](https://wopo.fadhalshulhan.com/graphql)  
-   Demo Credentials: Username: `gaskeun` & Password: `gasbro99`  
+   Server: [https://wopo.fadhalshulhan.com/graphql](https://wopo.fadhalshulhan.com/graphql)
+
+  ```
+  Login Account Demo
+  Username: gaskeun
+  Password: gasbro99
+  ```
+
   ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
 - **[DocuMindAI](https://documind-ai.web.id/)**: A real-time document summarization app powered by AI, supporting Legal, Education, and Corporate sectors.  
@@ -48,19 +66,32 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on web, 
   ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
 - **[Blog](https://blog.fadhalshulhan.com/)**: A personal blog platform with post management and user authentication features.  
-  Client: [https://blog.fadhalshulhan.com/](https://blog.fadhalshulhan.com/)  
-  Server: [https://api.fadhalshulhan.com/](https://api.fadhalshulhan.com/)  
-  Public Posts: [https://api.fadhalshulhan.com/pub/posts](https://api.fadhalshulhan.com/pub/posts)  
+   Client: [https://blog.fadhalshulhan.com/](https://blog.fadhalshulhan.com/)  
+   Server: [https://api.fadhalshulhan.com/](https://api.fadhalshulhan.com/)  
+   Public Posts: [https://api.fadhalshulhan.com/pub/posts](https://api.fadhalshulhan.com/pub/posts)
+
+  ```
+  Login Account Admin Demo
+  email: admin@mail.com
+  password: admin123
+  ```
+
+  ```
+  Login Account Staff Demo
+  email: staff@mail.com
+  password: staff123
+  ```
+
   ![Status](https://img.shields.io/badge/Status-Completed-green?style-for-the-badge)
 
-- **[Kaloripedia](https://fadhalshulhan.github.io/Kaloripedia/)**: An app to manage calorie intake and support a healthy lifestyle.  
-  Demo: [https://fadhalshulhan.github.io/Kaloripedia/](https://fadhalshulhan.github.io/Kaloripedia/)  
-  Repository: [https://github.com/fadhalshulhan/Kaloripedia](https://github.com/fadhalshulhan/Kaloripedia)  
+- **[Kaloripedia](https://fadhalshulhan.github.io/Kaloripedia/)**: An app to manage calorie intake and support a healthy lifestyle.
+  Demo: [https://fadhalshulhan.github.io/Kaloripedia/](https://fadhalshulhan.github.io/Kaloripedia/)
+  Repository: [https://github.com/fadhalshulhan/Kaloripedia](https://github.com/fadhalshulhan/Kaloripedia)
   ![Status](https://img.shields.io/badge/Status-Completed-green?style-for-the-badge)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadhalshulhan&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadhalshulhan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhalshulhan&layout=compact&theme=radical)
 
 ## Contributions
