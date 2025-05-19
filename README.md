@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on web, 
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
-### Backend Development
+### Back-End Development
 
 <div class="badge-container">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
