@@ -81,8 +81,8 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer specializi
 ## Featured Projects
 
 - **[Ngegas – Social Media App](https://kutt.it/NgegasApp)**: A social media app built with React Native and GraphQL, offering real-time interactions and secure user authentication.
-  Client: [https://kutt.it/NgegasApp](https://kutt.it/NgegasApp) (Requires Expo installation)  
-   Server: [https://wopo.fadhalshulhan.com/graphql](https://wopo.fadhalshulhan.com/graphql)
+  <div style="margin-bottom: 10px;">Client: <a href="https://kutt.it/NgegasApp">Ngegas App https://kutt.it/NgegasApp</a> (Requires Expo installation)</div>  
+  <div style="margin-bottom: 10px;">Server: <a href="https://wopo.fadhalshulhan.com/graphql">GraphQL API https://wopo.fadhalshulhan.com/graphql</a></div>
 
   ```
   Login Account Demo
