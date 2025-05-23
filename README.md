@@ -80,6 +80,17 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer specializi
 
 ## Featured Projects
 
+- **[Papikos – Sewa Kos Web](https://papikos.fadhalshulhan.com/)**: Web untuk penyewaan kos-kosan, dibangun dengan TypeScript, Next.js, dan MongoDB, menawarkan pencarian kos, detail kos, dan wishlist untuk mahasiswa serta pekerja.
+  <div style="margin-top: 0px;">Client: <a href="https://papikos.fadhalshulhan.com/">Papikos https://papikos.fadhalshulhan.com/</a></div>
+
+  ```
+  Login Account Demo
+  Username/Email: papi@kos.com
+  Password: papikos0.0
+  ```
+
+  ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
+
 - **[Ngegas – Social Media App](https://kutt.it/NgegasApp)**: A social media app built with React Native and GraphQL, offering real-time interactions and secure user authentication.
   <div style="margin-top: 0px;">Client: <a href="https://kutt.it/NgegasApp">Ngegas App https://kutt.it/NgegasApp</a> (Requires Expo installation)</div>
   <div style="margin-bottom: 10px;">Server: <a href="https://wopo.fadhalshulhan.com/graphql">GraphQL API https://wopo.fadhalshulhan.com/graphql</a></div>
