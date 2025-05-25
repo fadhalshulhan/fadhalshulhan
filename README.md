@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer specializi
 
 ## Featured Projects
 
-- **[Papikos – Sewa Kos Web](https://papikos.fadhalshulhan.com/)**: Web untuk penyewaan kos-kosan, dibangun dengan TypeScript, Next.js, dan MongoDB, menawarkan pencarian kos, detail kos, dan wishlist untuk mahasiswa serta pekerja.
+- **[Papikos – Sewa Kos Web](https://papikos.fadhalshulhan.com/)**: A website for boarding house rentals, built with TypeScript, Next.js, and MongoDB, offering boarding house search, details, and wishlist features for students and workers.
   <div style="margin-top: 0px;">Client: <a href="https://papikos.fadhalshulhan.com/">Papikos https://papikos.fadhalshulhan.com/</a></div>
 
   ```
