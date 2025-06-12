@@ -80,6 +80,12 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer specializi
 
 ## Featured Projects
 
+- **[Collabora – Crowdsourced Web](https://collabora.web.id/)**: Crowdsourced event platform with transparent budgets, real-time tracking, live chats with an AI-powered Description Generator.
+  <div style="margin-top: 0px;">Client: <a href="https://collabora.web.id/">Papikos https://collabora.web.id/</a></div>
+    <div style="margin-top: 0px;">Repository: <a href="https://github.com/crowdsourced-event-planning/cep">https://github.com/crowdsourced-event-planning/cep</a></div>
+
+  ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
+
 - **[Papikos – Sewa Kos Web](https://papikos.fadhalshulhan.com/)**: A website for boarding house rentals, built with TypeScript, Next.js, and MongoDB, offering boarding house search, details, and wishlist features for students and workers.
   <div style="margin-top: 0px;">Client: <a href="https://papikos.fadhalshulhan.com/">Papikos https://papikos.fadhalshulhan.com/</a></div>
 
@@ -137,6 +143,11 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer specializi
 - **[Kaloripedia](https://fadhalshulhan.github.io/Kaloripedia/)**: An app to manage calorie intake and support a healthy lifestyle.
   Demo: [https://fadhalshulhan.github.io/Kaloripedia/](https://fadhalshulhan.github.io/Kaloripedia/)
   Repository: [https://github.com/fadhalshulhan/Kaloripedia](https://github.com/fadhalshulhan/Kaloripedia)
+  ![Status](https://img.shields.io/badge/Status-Completed-green?style-for-the-badge)
+
+- **[Knowlytics](https://github.com/fadhalshulhan/Knowlytics/tree/fadhalshulhan-patch-1)**: Knowlytics: An EdTech platform for online learning, enabling students and instructors to manage courses, track progress, and handle transactions with features like PDF views and analytics.
+  Demo: [https://github.com/fadhalshulhan/Knowlytics/tree/fadhalshulhan-patch-1](https://fadhalshulhan.github.io/Kaloripedia/)
+  Repository: [https://github.com/fadhalshulhan/Knowlytics/tree/fadhalshulhan-patch-1](https://github.com/fadhalshulhan/Knowlytics/tree/fadhalshulhan-patch-1)
   ![Status](https://img.shields.io/badge/Status-Completed-green?style-for-the-badge)
 
 ## GitHub Stats
