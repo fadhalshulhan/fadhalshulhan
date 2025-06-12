@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer specializi
 ## Featured Projects
 
 - **[Collabora – Crowdsourced Web](https://collabora.web.id/)**: Crowdsourced event platform with transparent budgets, real-time tracking, live chats with an AI-powered Description Generator.
-  <div style="margin-top: 0px;">Client: <a href="https://collabora.web.id/">Papikos https://collabora.web.id/</a></div>
+  <div style="margin-top: 0px;">Client: <a href="https://collabora.web.id/">https://collabora.web.id/</a></div>
     <div style="margin-top: 0px;">Repository: <a href="https://github.com/crowdsourced-event-planning/cep">https://github.com/crowdsourced-event-planning/cep</a></div>
 
   ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
